@@ -41,3 +41,4 @@ jspm_packages
 npm-debug.log
 .DS_Store
 /*.env
+.eslintrc.js
